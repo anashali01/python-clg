@@ -2,8 +2,8 @@
 num1 = int(input("Enter your number"))
 
 if num1%2==0:
-    print("Number is even")
-    print("good!!")
+   if num1 > 0:
+    print("Number is even and positive :)")
 else:
-    print("Number is odd")
-    print("try again!")
+   print("Number is odd ")
+      
