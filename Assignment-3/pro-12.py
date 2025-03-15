@@ -1,4 +1,5 @@
-# Check if a number is positive
+# Write a Python program to check if a number is positive, negative, or zero using if
+# statements
 
 number = 10  # You can change this value to test with different numbers
 

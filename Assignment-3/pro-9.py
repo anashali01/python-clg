@@ -1,3 +1,4 @@
+# Write a program to demonstrate the use of arithmetic operators in Python
 # Addition
 a = 10
 b = 5

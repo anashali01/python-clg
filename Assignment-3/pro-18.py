@@ -1,4 +1,5 @@
-# Using break and continue statements
+# Write a program to demonstrate the use of break and continue statements in
+# loops.
 i = 0
 while i < 10:
     if i == 3:

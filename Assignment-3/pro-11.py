@@ -1,4 +1,4 @@
-# Logical operators: and, or, not
+#  Demonstrate the use of logical operators (and, or, not) with examples
 
 a = 10
 b = 5

@@ -1,3 +1,4 @@
+# Count the occurrences of a specific character in a given string
 str = "Hellllo"
 find = input("Enter Char which you want to find:")
 count = 0

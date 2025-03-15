@@ -1,4 +1,5 @@
-#largest of three number
+# Write a Python program to find the largest among three numbers using
+# if...elif...else.
 a = int(input("Enter First Number:"))
 b = int(input("Enter second Number:"))
 c = int(input("Enter third Number:"))
