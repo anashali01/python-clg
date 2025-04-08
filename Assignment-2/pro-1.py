@@ -1,4 +1,4 @@
-num = int(input("Enter Your movie name:"))
+num = int(input("Enter Your movie number:"))
 mov = []
 i = 1
 while i < num:

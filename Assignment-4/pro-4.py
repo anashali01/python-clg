@@ -8,6 +8,6 @@ def vowel_str(string):
     for i in vowel:
         string = string.replace(i , "*")
     return string
-string = "Hello Nigga"
+string = "Hello programer"
 print(center_str(string))
 print(vowel_str(string))

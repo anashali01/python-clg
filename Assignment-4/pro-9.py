@@ -3,6 +3,6 @@
 # "Python is fun, but ***** is difficult"
 def bann(par , ban_word):
     return par.replace(ban_word , "*****")
-par = "Hello motherfuker hey cutie"
-ban_word = "motherfuker"
+par = "Hello coder hey anash"
+ban_word = "coder"
 print(bann(par , ban_word))

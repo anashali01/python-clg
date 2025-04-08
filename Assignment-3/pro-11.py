@@ -16,3 +16,4 @@ print(f"({a} > {b}) or ({b} < {c}) = {result_or}")
 result_not = not (a > b)
 print(f"not ({a} > {b}) = {result_not}")
 
+    
