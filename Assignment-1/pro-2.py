@@ -6,4 +6,3 @@ if num1%2==0:
     print("Number is even and positive :)")
 else:
    print("Number is odd ")
-      

@@ -1,8 +1,9 @@
 #WAP to declare static and dynamic variable and print them.
-var1 = 10
 
-#Dynamic
-var2 = "20"
-print(var2)
-var2 = 20
-print(var2)
+# static variable
+static = "Anash"
+print(static)
+
+# Dynamic variable
+dynamic = input("Enter your name :")
+print(dynamic)

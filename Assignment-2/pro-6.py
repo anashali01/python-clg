@@ -1,13 +1,7 @@
-list = [2 , 4 , 6 , 9 , 9 , 9]
-num = int(input("Enter number which u want to find:"))
-count = 0
-i = 0
-while i < len(list):
-    if(num == list[i]):
-        print(list[i])
-        count += 1
+for i in range(8):
+    for j in range(8):
+        if (i + j) % 2 == 0:
+            print("⬜", end=" ")
     else:
-        print("Finding")
-
-    i+=1
-print("The number of repeat",count)
+        print("⬛", end=" ")
+print()

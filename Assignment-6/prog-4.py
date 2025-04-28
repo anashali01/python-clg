@@ -11,4 +11,4 @@ menu.remove("Inception")
 
 movie_menu = tuple(menu)
 
-print(movie_menu)
+print(movie_menu)   
